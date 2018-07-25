@@ -7,6 +7,7 @@ seaborn
 tqdm
 ipywidgets
 lightgbm
-pytorch
+torch
+torchvision
 tensorflow
 keras
