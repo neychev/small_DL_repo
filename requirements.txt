@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+sklearn
+seaborn
+beautifulsoup4
+nltk
+pymorphy2
