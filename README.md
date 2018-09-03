@@ -1,2 +1,2 @@
-# boosting_and_DL
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/neychev/boosting_and_DL/master)
+# Small_DL_tasks
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/neychev/small_DL_repo/master)
