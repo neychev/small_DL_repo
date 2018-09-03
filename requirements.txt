@@ -6,7 +6,6 @@ sklearn
 seaborn
 tqdm
 ipywidgets
-lightgbm
 torch
 torchvision
 tensorflow
