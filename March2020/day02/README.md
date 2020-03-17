@@ -1,0 +1,2 @@
+﻿Name generation from scratch:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/small_DL_repo/blob/master/March2020/day02/02_seq2seq_rnn_practice.ipynb)
