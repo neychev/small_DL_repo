@@ -1,0 +1,2 @@
+﻿CNN for text processing:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/small_DL_repo/blob/master/March2020/day03/03_CNN_for_texts.ipynb)
