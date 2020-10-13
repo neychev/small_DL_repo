@@ -1,0 +1,3 @@
+[submodule "ml_course_small"]
+	path = ml_course_small
+	url = https://github.com/neychev/ml_course_small.git
