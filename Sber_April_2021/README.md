@@ -1,8 +1,8 @@
 ﻿Neural Machine Translation:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/small_DL_repo/blob/master/Sber_April_2021/day02/practice_seq2seq_NMT_and_tensorboard.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/small_DL_repo/blob/master/Sber_April_2021/practice_seq2seq_NMT_and_tensorboard.ipynb)
 
 Question Answering tutorial:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/small_DL_repo/blob/master/Sber_April_2021/day02/Question_Answering_and_TTS.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/small_DL_repo/blob/master/Sber_April_2021/Question_Answering_and_TTS.ipynb)
 
 
 
