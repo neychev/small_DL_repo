@@ -1,1 +1,2 @@
 Poem "Evgenii Onegin" is copied from the repo https://github.com/attatrol/data_sources/ for convenicence.
+Faces dataset is archived and copied from https://github.com/harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch for convenience.
